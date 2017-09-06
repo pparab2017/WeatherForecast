@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="city_weather">City Weather</string>
+    <string name="preferences">Preferences</string>
+    <string name="lbl_temp_tag">Temperature:</string>
+    <string name="lbl_condition_tag">Condition:</string>
+    <string name="lbl_pressure_tag">Pressure:</string>
+    <string name="lbl_humidity_tag">Humidity:</string>
+    <string name="lbl_wind_tag">Wind:</string>
+    <string name="tag_button_Search">Search</string>
+    <string name="errorNoCityState">Please Enter the city and country.</string>
+    <string name="lbl_temp_tag_selector">Temperature Unit </string>
+    <string name="lbl_tag_temp_selection_desc" >Choose between Celsius and Fahrenheit</string>
+    <string name="city_saved">City Saved</string>
+    <string name="city_Updated">City Updated</string>
+</resources>
